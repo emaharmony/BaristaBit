@@ -1,0 +1,990 @@
+fileFormatVersion: 2
+guid: ba0d4bc90b66ae1428bc9ecb4db0ef7b
+timeCreated: 1537553984
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BoothD
+    100002: CoffeeShopFloor
+    100004: ElectricStair_Glass0
+    100006: ElectricStairs
+    100008: EStair_BeltCanals
+    100010: EStair_Canals
+    100012: EStair_Mat
+    100014: EStair_Mat1
+    100016: EStairs_Belts
+    100018: EStairsBase
+    100020: EStep00
+    100022: EStep01
+    100024: EStep010
+    100026: EStep011
+    100028: EStep012
+    100030: EStep013
+    100032: EStep014
+    100034: EStep015
+    100036: EStep016
+    100038: EStep017
+    100040: EStep018
+    100042: EStep019
+    100044: EStep02
+    100046: EStep020
+    100048: EStep021
+    100050: EStep022
+    100052: EStep023
+    100054: EStep024
+    100056: EStep025
+    100058: EStep026
+    100060: EStep027
+    100062: EStep028
+    100064: EStep029
+    100066: EStep03
+    100068: EStep030
+    100070: EStep031
+    100072: EStep032
+    100074: EStep033
+    100076: EStep034
+    100078: EStep035
+    100080: EStep036
+    100082: EStep037
+    100084: EStep038
+    100086: EStep039
+    100088: EStep04
+    100090: EStep040
+    100092: EStep041
+    100094: EStep042
+    100096: EStep043
+    100098: EStep044
+    100100: EStep045
+    100102: EStep046
+    100104: EStep047
+    100106: EStep048
+    100108: EStep049
+    100110: EStep05
+    100112: EStep050
+    100114: EStep051
+    100116: EStep052
+    100118: EStep053
+    100120: EStep054
+    100122: EStep055
+    100124: EStep056
+    100126: EStep057
+    100128: EStep06
+    100130: EStep07
+    100132: EStep08
+    100134: EStep09
+    100136: Glass4
+    100138: GlassStructure
+    100140: group7
+    100142: group7 1
+    100144: group7 2
+    100146: group7 3
+    100148: group7 4
+    100150: group7 5
+    100152: group7 6
+    100154: group7 7
+    100156: Interior_phillars
+    100158: InteriorFloorMat
+    100160: //RootNode
+    100162: Lamp1
+    100164: LeftCouch_BaseFrame
+    100166: LeftCouch_BaseFrame1
+    100168: LeftCouch_BaseFrame2
+    100170: LeftCouch_BaseFrame3
+    100172: LeftCouch_BaseFrame4
+    100174: LeftCouch_BaseFrame5
+    100176: LeftCouch_BaseFrame6
+    100178: LeftCouch_BaseFrame7
+    100180: Library2:pCube60
+    100182: Library2:pCube61
+    100184: Library2:pCube62
+    100186: Library2:pCube63
+    100188: Library2:pCube69
+    100190: Library2:polySurface352
+    100192: Library2:polySurface456
+    100194: LigthRack1
+    100196: LOGO1
+    100198: MANATEE_N_COFFEE1
+    100200: MenuBoards1
+    100202: pCube60
+    100204: pCube61
+    100206: pCube62
+    100208: pCube63
+    100210: pCube69
+    100212: pCylinder112
+    100214: pCylinder113
+    100216: pCylinder114
+    100218: Phillar00
+    100220: Phillar01
+    100222: Phillar010
+    100224: Phillar011
+    100226: Phillar02
+    100228: Phillar03
+    100230: Phillar04
+    100232: Phillar05
+    100234: Phillar06
+    100236: Phillar07
+    100238: Phillar08
+    100240: Phillar09
+    100242: polySurface352
+    100244: polySurface456
+    100246: polySurface823
+    100248: polySurface823 1
+    100250: polySurface823 10
+    100252: polySurface823 11
+    100254: polySurface823 2
+    100256: polySurface823 3
+    100258: polySurface823 4
+    100260: polySurface823 5
+    100262: polySurface823 6
+    100264: polySurface823 7
+    100266: polySurface823 8
+    100268: polySurface823 9
+    100270: polySurface824
+    100272: polySurface824 1
+    100274: polySurface824 10
+    100276: polySurface824 11
+    100278: polySurface824 2
+    100280: polySurface824 3
+    100282: polySurface824 4
+    100284: polySurface824 5
+    100286: polySurface824 6
+    100288: polySurface824 7
+    100290: polySurface824 8
+    100292: polySurface824 9
+    100294: polySurface825
+    100296: polySurface825 1
+    100298: polySurface825 10
+    100300: polySurface825 11
+    100302: polySurface825 2
+    100304: polySurface825 3
+    100306: polySurface825 4
+    100308: polySurface825 5
+    100310: polySurface825 6
+    100312: polySurface825 7
+    100314: polySurface825 8
+    100316: polySurface825 9
+    100318: polySurface826
+    100320: polySurface826 1
+    100322: polySurface826 10
+    100324: polySurface826 11
+    100326: polySurface826 2
+    100328: polySurface826 3
+    100330: polySurface826 4
+    100332: polySurface826 5
+    100334: polySurface826 6
+    100336: polySurface826 7
+    100338: polySurface826 8
+    100340: polySurface826 9
+    100342: rAIL
+    100344: SB_Glass
+    100346: SB_Glass1
+    100348: SBPhillar00
+    100350: SBPhillar01
+    100352: SBPhillar02
+    100354: SBPhillar03
+    100356: SBPhillar04
+    100358: SBPhillar05
+    100360: SpotLight_01
+    100362: SpotLight_010
+    100364: SpotLight_011
+    100366: SpotLight_012
+    100368: SpotLight_02
+    100370: SpotLight_03
+    100372: SpotLight_04
+    100374: SpotLight_05
+    100376: SpotLight_06
+    100378: SpotLight_07
+    100380: SpotLight_08
+    100382: SpotLight_09
+    100384: Stairs_Glass
+    100386: Stairs_Structure
+    100388: StairsBackSupport
+    100390: StairsD_
+    100392: StairsGlass
+    100394: Steps_Step00
+    100396: TiledWall1
+    100398: WoodSectionCID2
+    100400: WoodSectionCID2_MeshPart0
+    100402: WoodSectionCID2_MeshPart1
+    400000: BoothD
+    400002: CoffeeShopFloor
+    400004: ElectricStair_Glass0
+    400006: ElectricStairs
+    400008: EStair_BeltCanals
+    400010: EStair_Canals
+    400012: EStair_Mat
+    400014: EStair_Mat1
+    400016: EStairs_Belts
+    400018: EStairsBase
+    400020: EStep00
+    400022: EStep01
+    400024: EStep010
+    400026: EStep011
+    400028: EStep012
+    400030: EStep013
+    400032: EStep014
+    400034: EStep015
+    400036: EStep016
+    400038: EStep017
+    400040: EStep018
+    400042: EStep019
+    400044: EStep02
+    400046: EStep020
+    400048: EStep021
+    400050: EStep022
+    400052: EStep023
+    400054: EStep024
+    400056: EStep025
+    400058: EStep026
+    400060: EStep027
+    400062: EStep028
+    400064: EStep029
+    400066: EStep03
+    400068: EStep030
+    400070: EStep031
+    400072: EStep032
+    400074: EStep033
+    400076: EStep034
+    400078: EStep035
+    400080: EStep036
+    400082: EStep037
+    400084: EStep038
+    400086: EStep039
+    400088: EStep04
+    400090: EStep040
+    400092: EStep041
+    400094: EStep042
+    400096: EStep043
+    400098: EStep044
+    400100: EStep045
+    400102: EStep046
+    400104: EStep047
+    400106: EStep048
+    400108: EStep049
+    400110: EStep05
+    400112: EStep050
+    400114: EStep051
+    400116: EStep052
+    400118: EStep053
+    400120: EStep054
+    400122: EStep055
+    400124: EStep056
+    400126: EStep057
+    400128: EStep06
+    400130: EStep07
+    400132: EStep08
+    400134: EStep09
+    400136: Glass4
+    400138: GlassStructure
+    400140: group7
+    400142: group7 1
+    400144: group7 2
+    400146: group7 3
+    400148: group7 4
+    400150: group7 5
+    400152: group7 6
+    400154: group7 7
+    400156: Interior_phillars
+    400158: InteriorFloorMat
+    400160: //RootNode
+    400162: Lamp1
+    400164: LeftCouch_BaseFrame
+    400166: LeftCouch_BaseFrame1
+    400168: LeftCouch_BaseFrame2
+    400170: LeftCouch_BaseFrame3
+    400172: LeftCouch_BaseFrame4
+    400174: LeftCouch_BaseFrame5
+    400176: LeftCouch_BaseFrame6
+    400178: LeftCouch_BaseFrame7
+    400180: Library2:pCube60
+    400182: Library2:pCube61
+    400184: Library2:pCube62
+    400186: Library2:pCube63
+    400188: Library2:pCube69
+    400190: Library2:polySurface352
+    400192: Library2:polySurface456
+    400194: LigthRack1
+    400196: LOGO1
+    400198: MANATEE_N_COFFEE1
+    400200: MenuBoards1
+    400202: pCube60
+    400204: pCube61
+    400206: pCube62
+    400208: pCube63
+    400210: pCube69
+    400212: pCylinder112
+    400214: pCylinder113
+    400216: pCylinder114
+    400218: Phillar00
+    400220: Phillar01
+    400222: Phillar010
+    400224: Phillar011
+    400226: Phillar02
+    400228: Phillar03
+    400230: Phillar04
+    400232: Phillar05
+    400234: Phillar06
+    400236: Phillar07
+    400238: Phillar08
+    400240: Phillar09
+    400242: polySurface352
+    400244: polySurface456
+    400246: polySurface823
+    400248: polySurface823 1
+    400250: polySurface823 10
+    400252: polySurface823 11
+    400254: polySurface823 2
+    400256: polySurface823 3
+    400258: polySurface823 4
+    400260: polySurface823 5
+    400262: polySurface823 6
+    400264: polySurface823 7
+    400266: polySurface823 8
+    400268: polySurface823 9
+    400270: polySurface824
+    400272: polySurface824 1
+    400274: polySurface824 10
+    400276: polySurface824 11
+    400278: polySurface824 2
+    400280: polySurface824 3
+    400282: polySurface824 4
+    400284: polySurface824 5
+    400286: polySurface824 6
+    400288: polySurface824 7
+    400290: polySurface824 8
+    400292: polySurface824 9
+    400294: polySurface825
+    400296: polySurface825 1
+    400298: polySurface825 10
+    400300: polySurface825 11
+    400302: polySurface825 2
+    400304: polySurface825 3
+    400306: polySurface825 4
+    400308: polySurface825 5
+    400310: polySurface825 6
+    400312: polySurface825 7
+    400314: polySurface825 8
+    400316: polySurface825 9
+    400318: polySurface826
+    400320: polySurface826 1
+    400322: polySurface826 10
+    400324: polySurface826 11
+    400326: polySurface826 2
+    400328: polySurface826 3
+    400330: polySurface826 4
+    400332: polySurface826 5
+    400334: polySurface826 6
+    400336: polySurface826 7
+    400338: polySurface826 8
+    400340: polySurface826 9
+    400342: rAIL
+    400344: SB_Glass
+    400346: SB_Glass1
+    400348: SBPhillar00
+    400350: SBPhillar01
+    400352: SBPhillar02
+    400354: SBPhillar03
+    400356: SBPhillar04
+    400358: SBPhillar05
+    400360: SpotLight_01
+    400362: SpotLight_010
+    400364: SpotLight_011
+    400366: SpotLight_012
+    400368: SpotLight_02
+    400370: SpotLight_03
+    400372: SpotLight_04
+    400374: SpotLight_05
+    400376: SpotLight_06
+    400378: SpotLight_07
+    400380: SpotLight_08
+    400382: SpotLight_09
+    400384: Stairs_Glass
+    400386: Stairs_Structure
+    400388: StairsBackSupport
+    400390: StairsD_
+    400392: StairsGlass
+    400394: Steps_Step00
+    400396: TiledWall1
+    400398: WoodSectionCID2
+    400400: WoodSectionCID2_MeshPart0
+    400402: WoodSectionCID2_MeshPart1
+    2300000: CoffeeShopFloor
+    2300002: ElectricStair_Glass0
+    2300004: EStair_BeltCanals
+    2300006: EStair_Canals
+    2300008: EStair_Mat
+    2300010: EStair_Mat1
+    2300012: EStairs_Belts
+    2300014: EStairsBase
+    2300016: EStep00
+    2300018: EStep01
+    2300020: EStep010
+    2300022: EStep011
+    2300024: EStep012
+    2300026: EStep013
+    2300028: EStep014
+    2300030: EStep015
+    2300032: EStep016
+    2300034: EStep017
+    2300036: EStep018
+    2300038: EStep019
+    2300040: EStep02
+    2300042: EStep020
+    2300044: EStep021
+    2300046: EStep022
+    2300048: EStep023
+    2300050: EStep024
+    2300052: EStep025
+    2300054: EStep026
+    2300056: EStep027
+    2300058: EStep028
+    2300060: EStep029
+    2300062: EStep03
+    2300064: EStep030
+    2300066: EStep031
+    2300068: EStep032
+    2300070: EStep033
+    2300072: EStep034
+    2300074: EStep035
+    2300076: EStep036
+    2300078: EStep037
+    2300080: EStep038
+    2300082: EStep039
+    2300084: EStep04
+    2300086: EStep040
+    2300088: EStep041
+    2300090: EStep042
+    2300092: EStep043
+    2300094: EStep044
+    2300096: EStep045
+    2300098: EStep046
+    2300100: EStep047
+    2300102: EStep048
+    2300104: EStep049
+    2300106: EStep05
+    2300108: EStep050
+    2300110: EStep051
+    2300112: EStep052
+    2300114: EStep053
+    2300116: EStep054
+    2300118: EStep055
+    2300120: EStep056
+    2300122: EStep057
+    2300124: EStep06
+    2300126: EStep07
+    2300128: EStep08
+    2300130: EStep09
+    2300132: InteriorFloorMat
+    2300134: LeftCouch_BaseFrame
+    2300136: LeftCouch_BaseFrame1
+    2300138: LeftCouch_BaseFrame2
+    2300140: LeftCouch_BaseFrame3
+    2300142: LeftCouch_BaseFrame4
+    2300144: LeftCouch_BaseFrame5
+    2300146: LeftCouch_BaseFrame6
+    2300148: LeftCouch_BaseFrame7
+    2300150: Library2:pCube60
+    2300152: Library2:pCube61
+    2300154: Library2:pCube62
+    2300156: Library2:pCube63
+    2300158: Library2:pCube69
+    2300160: Library2:polySurface352
+    2300162: Library2:polySurface456
+    2300164: LOGO1
+    2300166: MANATEE_N_COFFEE1
+    2300168: MenuBoards1
+    2300170: pCube60
+    2300172: pCube61
+    2300174: pCube62
+    2300176: pCube63
+    2300178: pCube69
+    2300180: pCylinder112
+    2300182: pCylinder113
+    2300184: pCylinder114
+    2300186: Phillar00
+    2300188: Phillar01
+    2300190: Phillar010
+    2300192: Phillar011
+    2300194: Phillar02
+    2300196: Phillar03
+    2300198: Phillar04
+    2300200: Phillar05
+    2300202: Phillar06
+    2300204: Phillar07
+    2300206: Phillar08
+    2300208: Phillar09
+    2300210: polySurface352
+    2300212: polySurface456
+    2300214: polySurface823
+    2300216: polySurface823 1
+    2300218: polySurface823 10
+    2300220: polySurface823 11
+    2300222: polySurface823 2
+    2300224: polySurface823 3
+    2300226: polySurface823 4
+    2300228: polySurface823 5
+    2300230: polySurface823 6
+    2300232: polySurface823 7
+    2300234: polySurface823 8
+    2300236: polySurface823 9
+    2300238: polySurface824
+    2300240: polySurface824 1
+    2300242: polySurface824 10
+    2300244: polySurface824 11
+    2300246: polySurface824 2
+    2300248: polySurface824 3
+    2300250: polySurface824 4
+    2300252: polySurface824 5
+    2300254: polySurface824 6
+    2300256: polySurface824 7
+    2300258: polySurface824 8
+    2300260: polySurface824 9
+    2300262: polySurface825
+    2300264: polySurface825 1
+    2300266: polySurface825 10
+    2300268: polySurface825 11
+    2300270: polySurface825 2
+    2300272: polySurface825 3
+    2300274: polySurface825 4
+    2300276: polySurface825 5
+    2300278: polySurface825 6
+    2300280: polySurface825 7
+    2300282: polySurface825 8
+    2300284: polySurface825 9
+    2300286: polySurface826
+    2300288: polySurface826 1
+    2300290: polySurface826 10
+    2300292: polySurface826 11
+    2300294: polySurface826 2
+    2300296: polySurface826 3
+    2300298: polySurface826 4
+    2300300: polySurface826 5
+    2300302: polySurface826 6
+    2300304: polySurface826 7
+    2300306: polySurface826 8
+    2300308: polySurface826 9
+    2300310: rAIL
+    2300312: SBPhillar00
+    2300314: SBPhillar01
+    2300316: SBPhillar02
+    2300318: SBPhillar03
+    2300320: SBPhillar04
+    2300322: SBPhillar05
+    2300324: StairsBackSupport
+    2300326: StairsGlass
+    2300328: Steps_Step00
+    2300330: TiledWall1
+    2300332: WoodSectionCID2_MeshPart0
+    2300334: WoodSectionCID2_MeshPart1
+    3300000: CoffeeShopFloor
+    3300002: ElectricStair_Glass0
+    3300004: EStair_BeltCanals
+    3300006: EStair_Canals
+    3300008: EStair_Mat
+    3300010: EStair_Mat1
+    3300012: EStairs_Belts
+    3300014: EStairsBase
+    3300016: EStep00
+    3300018: EStep01
+    3300020: EStep010
+    3300022: EStep011
+    3300024: EStep012
+    3300026: EStep013
+    3300028: EStep014
+    3300030: EStep015
+    3300032: EStep016
+    3300034: EStep017
+    3300036: EStep018
+    3300038: EStep019
+    3300040: EStep02
+    3300042: EStep020
+    3300044: EStep021
+    3300046: EStep022
+    3300048: EStep023
+    3300050: EStep024
+    3300052: EStep025
+    3300054: EStep026
+    3300056: EStep027
+    3300058: EStep028
+    3300060: EStep029
+    3300062: EStep03
+    3300064: EStep030
+    3300066: EStep031
+    3300068: EStep032
+    3300070: EStep033
+    3300072: EStep034
+    3300074: EStep035
+    3300076: EStep036
+    3300078: EStep037
+    3300080: EStep038
+    3300082: EStep039
+    3300084: EStep04
+    3300086: EStep040
+    3300088: EStep041
+    3300090: EStep042
+    3300092: EStep043
+    3300094: EStep044
+    3300096: EStep045
+    3300098: EStep046
+    3300100: EStep047
+    3300102: EStep048
+    3300104: EStep049
+    3300106: EStep05
+    3300108: EStep050
+    3300110: EStep051
+    3300112: EStep052
+    3300114: EStep053
+    3300116: EStep054
+    3300118: EStep055
+    3300120: EStep056
+    3300122: EStep057
+    3300124: EStep06
+    3300126: EStep07
+    3300128: EStep08
+    3300130: EStep09
+    3300132: InteriorFloorMat
+    3300134: LeftCouch_BaseFrame
+    3300136: LeftCouch_BaseFrame1
+    3300138: LeftCouch_BaseFrame2
+    3300140: LeftCouch_BaseFrame3
+    3300142: LeftCouch_BaseFrame4
+    3300144: LeftCouch_BaseFrame5
+    3300146: LeftCouch_BaseFrame6
+    3300148: LeftCouch_BaseFrame7
+    3300150: Library2:pCube60
+    3300152: Library2:pCube61
+    3300154: Library2:pCube62
+    3300156: Library2:pCube63
+    3300158: Library2:pCube69
+    3300160: Library2:polySurface352
+    3300162: Library2:polySurface456
+    3300164: LOGO1
+    3300166: MANATEE_N_COFFEE1
+    3300168: MenuBoards1
+    3300170: pCube60
+    3300172: pCube61
+    3300174: pCube62
+    3300176: pCube63
+    3300178: pCube69
+    3300180: pCylinder112
+    3300182: pCylinder113
+    3300184: pCylinder114
+    3300186: Phillar00
+    3300188: Phillar01
+    3300190: Phillar010
+    3300192: Phillar011
+    3300194: Phillar02
+    3300196: Phillar03
+    3300198: Phillar04
+    3300200: Phillar05
+    3300202: Phillar06
+    3300204: Phillar07
+    3300206: Phillar08
+    3300208: Phillar09
+    3300210: polySurface352
+    3300212: polySurface456
+    3300214: polySurface823
+    3300216: polySurface823 1
+    3300218: polySurface823 10
+    3300220: polySurface823 11
+    3300222: polySurface823 2
+    3300224: polySurface823 3
+    3300226: polySurface823 4
+    3300228: polySurface823 5
+    3300230: polySurface823 6
+    3300232: polySurface823 7
+    3300234: polySurface823 8
+    3300236: polySurface823 9
+    3300238: polySurface824
+    3300240: polySurface824 1
+    3300242: polySurface824 10
+    3300244: polySurface824 11
+    3300246: polySurface824 2
+    3300248: polySurface824 3
+    3300250: polySurface824 4
+    3300252: polySurface824 5
+    3300254: polySurface824 6
+    3300256: polySurface824 7
+    3300258: polySurface824 8
+    3300260: polySurface824 9
+    3300262: polySurface825
+    3300264: polySurface825 1
+    3300266: polySurface825 10
+    3300268: polySurface825 11
+    3300270: polySurface825 2
+    3300272: polySurface825 3
+    3300274: polySurface825 4
+    3300276: polySurface825 5
+    3300278: polySurface825 6
+    3300280: polySurface825 7
+    3300282: polySurface825 8
+    3300284: polySurface825 9
+    3300286: polySurface826
+    3300288: polySurface826 1
+    3300290: polySurface826 10
+    3300292: polySurface826 11
+    3300294: polySurface826 2
+    3300296: polySurface826 3
+    3300298: polySurface826 4
+    3300300: polySurface826 5
+    3300302: polySurface826 6
+    3300304: polySurface826 7
+    3300306: polySurface826 8
+    3300308: polySurface826 9
+    3300310: rAIL
+    3300312: SBPhillar00
+    3300314: SBPhillar01
+    3300316: SBPhillar02
+    3300318: SBPhillar03
+    3300320: SBPhillar04
+    3300322: SBPhillar05
+    3300324: StairsBackSupport
+    3300326: StairsGlass
+    3300328: Steps_Step00
+    3300330: TiledWall1
+    3300332: WoodSectionCID2_MeshPart0
+    3300334: WoodSectionCID2_MeshPart1
+    4300000: rAIL
+    4300002: polySurface823
+    4300004: polySurface824
+    4300006: polySurface825
+    4300008: polySurface826
+    4300010: polySurface825
+    4300012: polySurface826
+    4300014: polySurface823
+    4300016: polySurface824
+    4300018: polySurface825
+    4300020: polySurface826
+    4300022: polySurface823
+    4300024: polySurface824
+    4300026: polySurface823
+    4300028: polySurface824
+    4300030: polySurface825
+    4300032: polySurface826
+    4300034: polySurface825
+    4300036: polySurface826
+    4300038: polySurface823
+    4300040: polySurface824
+    4300042: polySurface825
+    4300044: polySurface826
+    4300046: polySurface823
+    4300048: polySurface824
+    4300050: polySurface825
+    4300052: polySurface826
+    4300054: polySurface823
+    4300056: polySurface824
+    4300058: polySurface825
+    4300060: polySurface826
+    4300062: polySurface823
+    4300064: polySurface824
+    4300066: polySurface823
+    4300068: polySurface824
+    4300070: polySurface825
+    4300072: polySurface826
+    4300074: polySurface823
+    4300076: polySurface824
+    4300078: polySurface825
+    4300080: polySurface826
+    4300082: polySurface825
+    4300084: polySurface826
+    4300086: polySurface823
+    4300088: polySurface824
+    4300090: polySurface825
+    4300092: polySurface826
+    4300094: polySurface823
+    4300096: polySurface824
+    4300098: pCylinder113
+    4300100: pCylinder112
+    4300102: pCylinder114
+    4300104: WoodSectionCID2_MeshPart0
+    4300106: WoodSectionCID2_MeshPart1
+    4300108: TiledWall1
+    4300110: LOGO1
+    4300112: MANATEE_N_COFFEE1
+    4300114: MenuBoards1
+    4300116: LeftCouch_BaseFrame1
+    4300118: LeftCouch_BaseFrame2
+    4300120: LeftCouch_BaseFrame3
+    4300122: LeftCouch_BaseFrame4
+    4300124: LeftCouch_BaseFrame5
+    4300126: LeftCouch_BaseFrame6
+    4300128: LeftCouch_BaseFrame7
+    4300130: LeftCouch_BaseFrame
+    4300132: Library2:polySurface352
+    4300134: Library2:polySurface456
+    4300136: Library2:pCube60
+    4300138: Library2:pCube61
+    4300140: Library2:pCube62
+    4300142: Library2:pCube63
+    4300144: Library2:pCube69
+    4300146: polySurface352
+    4300148: polySurface456
+    4300150: pCube60
+    4300152: pCube61
+    4300154: pCube62
+    4300156: pCube63
+    4300158: pCube69
+    4300160: StairsGlass
+    4300162: ElectricStair_Glass0
+    4300164: EStep01
+    4300166: EStep02
+    4300168: EStep03
+    4300170: EStep04
+    4300172: EStep05
+    4300174: EStep06
+    4300176: EStep07
+    4300178: EStep08
+    4300180: EStep09
+    4300182: EStep010
+    4300184: EStep011
+    4300186: EStep012
+    4300188: EStep013
+    4300190: EStep014
+    4300192: EStep015
+    4300194: EStep016
+    4300196: EStep017
+    4300198: EStep018
+    4300200: EStep019
+    4300202: EStep020
+    4300204: EStep021
+    4300206: EStep022
+    4300208: EStep023
+    4300210: EStep024
+    4300212: EStep025
+    4300214: EStep026
+    4300216: EStep027
+    4300218: EStep028
+    4300220: EStep00
+    4300222: EStep029
+    4300224: EStep030
+    4300226: EStep031
+    4300228: EStep032
+    4300230: EStep033
+    4300232: EStep034
+    4300234: EStep035
+    4300236: EStep036
+    4300238: EStep037
+    4300240: EStep038
+    4300242: EStep039
+    4300244: EStep040
+    4300246: EStep041
+    4300248: EStep042
+    4300250: EStep043
+    4300252: EStep044
+    4300254: EStep045
+    4300256: EStep046
+    4300258: EStep047
+    4300260: EStep048
+    4300262: EStep049
+    4300264: EStep050
+    4300266: EStep051
+    4300268: EStep052
+    4300270: EStep053
+    4300272: EStep054
+    4300274: EStep055
+    4300276: EStep056
+    4300278: EStep057
+    4300280: StairsBackSupport
+    4300282: Steps_Step00
+    4300284: EStairs_Belts
+    4300286: EStair_BeltCanals
+    4300288: EStair_Canals
+    4300290: EStair_Mat
+    4300292: EStairsBase
+    4300294: EStair_Mat1
+    4300296: CoffeeShopFloor
+    4300298: InteriorFloorMat
+    4300300: SBPhillar05
+    4300302: SBPhillar04
+    4300304: SBPhillar03
+    4300306: SBPhillar02
+    4300308: SBPhillar01
+    4300310: SBPhillar00
+    4300312: Phillar00
+    4300314: Phillar01
+    4300316: Phillar02
+    4300318: Phillar03
+    4300320: Phillar04
+    4300322: Phillar05
+    4300324: Phillar06
+    4300326: Phillar07
+    4300328: Phillar08
+    4300330: Phillar09
+    4300332: Phillar010
+    4300334: Phillar011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

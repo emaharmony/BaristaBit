@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: a868fc4c5829d754084f09a89b6b805a
+timeCreated: 1532709098
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Coffee_Beans_00
+    100002: Coffee_Beans_00_MeshPart0
+    100004: Coffee_Beans_00_MeshPart1
+    100006: Coffee_Beans_01
+    100008: Coffee_Beans_01_MeshPart0
+    100010: Coffee_Beans_01_MeshPart1
+    100012: CoffeeMachines_Counter
+    100014: CoffeeShop
+    100016: Library2:Coffeemachine
+    100018: Library2:group5
+    100020: Library2:Interior
+    100022: Machines_Table
+    100024: //RootNode
+    100026: Masterena01
+    100028: Masterena02
+    400000: Coffee_Beans_00
+    400002: Coffee_Beans_00_MeshPart0
+    400004: Coffee_Beans_00_MeshPart1
+    400006: Coffee_Beans_01
+    400008: Coffee_Beans_01_MeshPart0
+    400010: Coffee_Beans_01_MeshPart1
+    400012: CoffeeMachines_Counter
+    400014: CoffeeShop
+    400016: Library2:Coffeemachine
+    400018: Library2:group5
+    400020: Library2:Interior
+    400022: Machines_Table
+    400024: //RootNode
+    400026: Masterena01
+    400028: Masterena02
+    2300000: Coffee_Beans_00_MeshPart0
+    2300002: Coffee_Beans_00_MeshPart1
+    2300004: Coffee_Beans_01_MeshPart0
+    2300006: Coffee_Beans_01_MeshPart1
+    2300008: Machines_Table
+    2300010: Masterena01
+    2300012: Masterena02
+    3300000: Coffee_Beans_00_MeshPart0
+    3300002: Coffee_Beans_00_MeshPart1
+    3300004: Coffee_Beans_01_MeshPart0
+    3300006: Coffee_Beans_01_MeshPart1
+    3300008: Machines_Table
+    3300010: Masterena01
+    3300012: Masterena02
+    4300000: Machines_Table
+    4300002: Coffee_Beans_00_MeshPart0
+    4300004: Coffee_Beans_00_MeshPart1
+    4300006: Coffee_Beans_01_MeshPart0
+    4300008: Coffee_Beans_01_MeshPart1
+    4300010: Masterena01
+    4300012: Masterena02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

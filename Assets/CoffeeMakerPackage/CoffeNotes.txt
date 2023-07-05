@@ -1,0 +1,21 @@
+9/17/18 - (DONE)
+1. Need to find a way to represent ingredients added
+2. Need a redo drink button
+3. Fix the hotkey Enter to submit drink
+4. Points system needs to be a bit more accuarte.
+5. Alloted time waiting at the front should affect mood when order is being prepared/
+6. Tutorial is definitely needed
+7. Brain storm how to make added items more apparent
+8. More visual indication that the drink was good or bad.
+9. Tip should be affected by how the drink is prepared.
+10. Adjust so that people don't appear for a while after max is hit.
+11. Need new recipe image.
+12. Think about Rewards and punishment
+
+10/3/18 
+1. Mood does not affect points only tips. 
+2. Pause Screen
+3. End game results incomplete
+4. Man model is too big
+5. Particles sometimes does not play
+6. 

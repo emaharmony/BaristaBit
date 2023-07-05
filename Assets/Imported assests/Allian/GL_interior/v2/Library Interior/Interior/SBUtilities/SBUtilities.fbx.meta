@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: b6aab170a9003a54d8e89e3075a46776
+timeCreated: 1537557177
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CabDoor
+    100002: CabDoor 1
+    100004: CoffeePot00
+    100006: CoffeePot00 1
+    100008: CoffeePot01
+    100010: CoffeePot01 1
+    100012: CoffeePot02
+    100014: CoffeePot02 1
+    100016: CoffeeShop
+    100018: Front_Cab
+    100020: Front_Cab 1
+    100022: Front_CabTop1
+    100024: Front_CabTop1 1
+    100026: Library2:Interior
+    100028: NapkinDispenser00
+    100030: NapkinDispenser00 1
+    100032: NapkinDispenser01
+    100034: NapkinDispenser01 1
+    100036: pCube159
+    100038: pCube159 1
+    100040: pCylinder115
+    100042: pCylinder115 1
+    100044: pCylinder119
+    100046: pCylinder119 1
+    100048: pCylinder120
+    100050: pCylinder120 1
+    100052: pCylinder146
+    100054: pCylinder146 1
+    100056: pCylinder147
+    100058: pCylinder147 1
+    100060: pCylinder148
+    100062: pCylinder148 1
+    100064: SB_Untencils_01
+    100066: SB_Untencils_02
+    100068: //RootNode
+    100070: Straws00
+    100072: Straws00 1
+    100074: Straws01
+    100076: Straws01 1
+    400000: CabDoor
+    400002: CabDoor 1
+    400004: CoffeePot00
+    400006: CoffeePot00 1
+    400008: CoffeePot01
+    400010: CoffeePot01 1
+    400012: CoffeePot02
+    400014: CoffeePot02 1
+    400016: CoffeeShop
+    400018: Front_Cab
+    400020: Front_Cab 1
+    400022: Front_CabTop1
+    400024: Front_CabTop1 1
+    400026: Library2:Interior
+    400028: NapkinDispenser00
+    400030: NapkinDispenser00 1
+    400032: NapkinDispenser01
+    400034: NapkinDispenser01 1
+    400036: pCube159
+    400038: pCube159 1
+    400040: pCylinder115
+    400042: pCylinder115 1
+    400044: pCylinder119
+    400046: pCylinder119 1
+    400048: pCylinder120
+    400050: pCylinder120 1
+    400052: pCylinder146
+    400054: pCylinder146 1
+    400056: pCylinder147
+    400058: pCylinder147 1
+    400060: pCylinder148
+    400062: pCylinder148 1
+    400064: SB_Untencils_01
+    400066: SB_Untencils_02
+    400068: //RootNode
+    400070: Straws00
+    400072: Straws00 1
+    400074: Straws01
+    400076: Straws01 1
+    2300000: CabDoor
+    2300002: CabDoor 1
+    2300004: CoffeePot00
+    2300006: CoffeePot00 1
+    2300008: CoffeePot01
+    2300010: CoffeePot01 1
+    2300012: CoffeePot02
+    2300014: CoffeePot02 1
+    2300016: Front_Cab
+    2300018: Front_Cab 1
+    2300020: Front_CabTop1
+    2300022: Front_CabTop1 1
+    2300024: NapkinDispenser00
+    2300026: NapkinDispenser00 1
+    2300028: NapkinDispenser01
+    2300030: NapkinDispenser01 1
+    2300032: pCube159
+    2300034: pCube159 1
+    2300036: pCylinder115
+    2300038: pCylinder115 1
+    2300040: pCylinder119
+    2300042: pCylinder119 1
+    2300044: pCylinder120
+    2300046: pCylinder120 1
+    2300048: pCylinder146
+    2300050: pCylinder146 1
+    2300052: pCylinder147
+    2300054: pCylinder147 1
+    2300056: pCylinder148
+    2300058: pCylinder148 1
+    2300060: Straws00
+    2300062: Straws00 1
+    2300064: Straws01
+    2300066: Straws01 1
+    3300000: CabDoor
+    3300002: CabDoor 1
+    3300004: CoffeePot00
+    3300006: CoffeePot00 1
+    3300008: CoffeePot01
+    3300010: CoffeePot01 1
+    3300012: CoffeePot02
+    3300014: CoffeePot02 1
+    3300016: Front_Cab
+    3300018: Front_Cab 1
+    3300020: Front_CabTop1
+    3300022: Front_CabTop1 1
+    3300024: NapkinDispenser00
+    3300026: NapkinDispenser00 1
+    3300028: NapkinDispenser01
+    3300030: NapkinDispenser01 1
+    3300032: pCube159
+    3300034: pCube159 1
+    3300036: pCylinder115
+    3300038: pCylinder115 1
+    3300040: pCylinder119
+    3300042: pCylinder119 1
+    3300044: pCylinder120
+    3300046: pCylinder120 1
+    3300048: pCylinder146
+    3300050: pCylinder146 1
+    3300052: pCylinder147
+    3300054: pCylinder147 1
+    3300056: pCylinder148
+    3300058: pCylinder148 1
+    3300060: Straws00
+    3300062: Straws00 1
+    3300064: Straws01
+    3300066: Straws01 1
+    4300000: CabDoor
+    4300002: pCube159
+    4300004: Front_CabTop1
+    4300006: Front_Cab
+    4300008: pCylinder115
+    4300010: NapkinDispenser01
+    4300012: CoffeePot00
+    4300014: CoffeePot01
+    4300016: CoffeePot02
+    4300018: NapkinDispenser00
+    4300020: Straws00
+    4300022: Straws01
+    4300024: pCylinder119
+    4300026: pCylinder120
+    4300028: pCylinder146
+    4300030: pCylinder147
+    4300032: pCylinder148
+    4300034: CabDoor
+    4300036: pCube159
+    4300038: Front_CabTop1
+    4300040: Front_Cab
+    4300042: pCylinder115
+    4300044: NapkinDispenser01
+    4300046: CoffeePot00
+    4300048: CoffeePot01
+    4300050: CoffeePot02
+    4300052: NapkinDispenser00
+    4300054: Straws00
+    4300056: Straws01
+    4300058: pCylinder119
+    4300060: pCylinder120
+    4300062: pCylinder146
+    4300064: pCylinder147
+    4300066: pCylinder148
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

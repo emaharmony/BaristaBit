@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 9a1505ac7dd062b499b1508e3d719fa8
+timeCreated: 1537562117
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cabinets_and_others
+    100002: CoffeeShop
+    100004: Items
+    100006: Items 1
+    100008: Library2:Interior
+    100010: SBChair00
+    100012: SBChair01
+    100014: SBChair02
+    100016: SBChair03
+    100018: //RootNode
+    100020: SBChairs
+    100022: WoodenShairs01
+    100024: WoodenShairs01_pCube136
+    100026: WoodenShairs01_pCube137
+    100028: WoodenShairs01_pCube138
+    100030: WoodenShairs01_pCube139
+    100032: WoodenShairs01_pCube140
+    400000: Cabinets_and_others
+    400002: CoffeeShop
+    400004: Items
+    400006: Items 1
+    400008: Library2:Interior
+    400010: SBChair00
+    400012: SBChair01
+    400014: SBChair02
+    400016: SBChair03
+    400018: SBChairs
+    400020: //RootNode
+    400022: WoodenShairs01
+    400024: WoodenShairs01_pCube136
+    400026: WoodenShairs01_pCube137
+    400028: WoodenShairs01_pCube138
+    400030: WoodenShairs01_pCube139
+    400032: WoodenShairs01_pCube140
+    2300000: SBChair00
+    2300002: SBChair01
+    2300004: SBChair02
+    2300006: SBChair03
+    2300008: WoodenShairs01_pCube136
+    2300010: WoodenShairs01_pCube137
+    2300012: WoodenShairs01_pCube138
+    2300014: WoodenShairs01_pCube139
+    2300016: WoodenShairs01_pCube140
+    3300000: SBChair00
+    3300002: SBChair01
+    3300004: SBChair02
+    3300006: SBChair03
+    3300008: WoodenShairs01_pCube136
+    3300010: WoodenShairs01_pCube137
+    3300012: WoodenShairs01_pCube138
+    3300014: WoodenShairs01_pCube139
+    3300016: WoodenShairs01_pCube140
+    4300000: WoodenShairs01_pCube136
+    4300002: WoodenShairs01_pCube137
+    4300004: WoodenShairs01_pCube138
+    4300006: WoodenShairs01_pCube139
+    4300008: WoodenShairs01_pCube140
+    4300010: SBChair00
+    4300012: SBChair01
+    4300014: SBChair02
+    4300016: SBChair03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
